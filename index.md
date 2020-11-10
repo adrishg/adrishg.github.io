@@ -1,13 +1,15 @@
 ---
 layout: page
-title: PJC - Computational Biology
+title: Public Journal Club - Computational Biology
 ---
 
+### Next Session
 
-## About us
-
-### Next Sessions
+Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data
 
 
-January 7
+
+
+
+
 
