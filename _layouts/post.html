@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="article">
+<article>
 
   <header>
     <h1>{{ page.title | escape }}</h1>
@@ -21,16 +21,8 @@ layout: default
     </p>
   </header>
 
-  <div class="mb-2">
-    {% include social_buttons.html %}
-  </div>
-
   <section>
     {{ content }}
   </section>
-
-  <footer>
-    {% include disqus.html %}
-  </footer>
 
 </article>
