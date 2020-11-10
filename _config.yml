@@ -16,7 +16,7 @@
 title: PJC - Computational Biology
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A digital platform with online sessions to discuss papers and review code of Computational Biology 
+  A digital platform with online sessions to discuss papers and review code about Computational Biology 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -40,5 +40,3 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
-
-theme: jekyll-theme-cayman
