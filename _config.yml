@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PJC - Computational Biology
+title: Nicolas Vanhoren's Blog
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A digital platform with online sessions to discuss papers and review code about Computational Biology 
+  My Personal Blog
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+twitter_username: nicolasvanhoren
+github_username:  nicolas-van
+permalink: :title
 
-repository: "adrishg/adrishg.io"
+repository: "nicolas-van/nicolas-van.github.io"
 
 # Build settings
 plugins:
@@ -40,4 +41,5 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
 show_excerpts: true
