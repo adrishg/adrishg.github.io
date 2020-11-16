@@ -1,10 +1,7 @@
 ---
-layout: page
-title: Public Journal Club - Computational Biology
+layout: home
 ---
 
-
-### Next Session
 
 
 
